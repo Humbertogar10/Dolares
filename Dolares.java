@@ -4,7 +4,7 @@ public class Dolares{
   Scanner scanner = new Scanner(System.in);
 
   //Leemos los Quetzales
-  System.out.print("Ingrese la cantidad de quetzales: ");
+  System.out.print("Ingrese la cantidad de Quetzales:$ ");
   double Quetzales = scanner.nextDouble();
 
    //Usamos la formula de convercion
